@@ -1,6 +1,6 @@
 # Airbnb CSS / Sass スタイルガイド
 
-*A CSSとSASSを合理的に書くためのガイド*
+*CSSとSASSを合理的に書くためのガイド*
 
 ## 目次
 
